@@ -107,3 +107,6 @@ Please note performance is highly dependent on system load. The numbers above ar
 
 ## Build
 * You can refer to https://github.com/xmrig/xmrig/wiki/Build
+
+## Donate 
+* UT Address: UgqBPuxenX3xwBM6AiQoE2sYezxvPgLdX2
